@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,supplier_id,unit_cost,unit_price,weight_kg,rating,is_active
+PRD0001,Tech Item 152,Office,Tech,SUP027,96.09,314.78,10.87,2.8,1
+PRD0002,Furniture Item 571,Office,Furniture,SUP006,131.13,231.84,20.35,3.5,1
+PRD0003,Sportswear Item 587,Clothing,Sportswear,SUP002,56.62,139.83,14.63,3.8,1
+PRD0004,Decor Item 804,Garden,Decor,SUP041,176.65,213.9,1.44,2.9,1
+PRD0005,Non-Fiction Item 870,Books,Non-Fiction,SUP023,224.91,614.91,18.35,1.5,1
+PRD0006,Phones Item 935,Electronics,Phones,SUP038,34.16,109.09,11.58,2.4,1
+PRD0007,Decor Item 187,Home & Kitchen,Decor,SUP005,44.49,54.61,18.88,1.3,0
+PRD0008,Tools Item 209,Garden,Tools,SUP046,114.51,368.91,19.19,4.5,1
+PRD0009,Laptops Item 393,Electronics,Laptops,SUP029,2.24,5.72,24.87,1.1,1
+PRD0010,Accessories Item 956,Automotive,Accessories,SUP003,43.04,123.46,22.81,1.4,1
+PRD0011,Action Figures Item 154,Toys,Action Figures,SUP047,289.71,382.34,11.98,1.8,1
+PRD0012,Non-Fiction Item 634,Books,Non-Fiction,SUP006,128.6,284.3,8.1,1.8,1
+PRD0013,Decor Item 821,Home & Kitchen,Decor,SUP017,191.83,292.28,21.81,3.6,0
+PRD0014,Women Item 813,Clothing,Women,SUP033,242.86,551.98,25.8,1.3,1
+PRD0015,Cookware Item 362,Home & Kitchen,Cookware,SUP036,264.44,596.63,18.01,3.2,1
+PRD0016,Tablets Item 558,Electronics,Tablets,SUP013,16.68,26.37,18.83,3.8,1
+PRD0017,Parts Item 428,Automotive,Parts,SUP032,5.73,7.44,22.9,4.1,1
+PRD0018,Parts Item 435,Automotive,Parts,SUP047,256.71,687.57,16.48,1.5,1
+PRD0019,Tools Item 499,Garden,Tools,SUP040,71.22,247.03,29.16,1.9,1
+PRD0020,Decor Item 985,Home & Kitchen,Decor,SUP020,257.46,616.55,29.31,3.1,1
+PRD0021,Medical Item 882,Health,Medical,SUP042,273.22,748.56,18.05,1.7,0
+PRD0022,Fitness Item 215,Sports,Fitness,SUP013,208.71,705.92,29.92,3.0,1
+PRD0023,Sportswear Item 941,Clothing,Sportswear,SUP036,87.65,212.55,14.67,3.5,1
+PRD0024,Plants Item 799,Garden,Plants,SUP019,181.06,489.84,12.42,2.0,1
+PRD0025,Academic Item 168,Books,Academic,SUP017,58.68,118.48,19.06,3.2,0
+PRD0026,Action Figures Item 253,Toys,Action Figures,SUP046,271.97,503.92,10.18,1.0,1
+PRD0027,Furniture Item 490,Home & Kitchen,Furniture,SUP009,129.03,206.71,17.02,1.0,1
+PRD0028,Dolls Item 205,Toys,Dolls,SUP007,60.84,196.53,14.98,1.4,1
+PRD0029,Supplements Item 623,Health,Supplements,SUP015,175.73,591.47,4.95,2.1,1
+PRD0030,Decor Item 619,Home & Kitchen,Decor,SUP043,88.69,202.48,14.68,3.4,1
+PRD0031,Accessories Item 734,Electronics,Accessories,SUP034,249.82,863.2,20.79,2.0,1
+PRD0032,Team Sports Item 202,Sports,Team Sports,SUP005,242.61,312.16,22.63,4.7,1
+PRD0033,Cleaning Item 405,Automotive,Cleaning,SUP013,261.65,688.08,1.67,3.4,0
+PRD0034,Appliances Item 695,Home & Kitchen,Appliances,SUP042,153.32,419.91,19.26,4.5,1
+PRD0035,Organization Item 400,Office,Organization,SUP004,10.92,22.04,20.27,4.8,1
+PRD0036,Cookware Item 241,Home & Kitchen,Cookware,SUP010,75.29,235.38,22.46,2.0,1
+PRD0037,Water Sports Item 750,Sports,Water Sports,SUP047,99.03,131.69,5.72,2.8,1
+PRD0038,Plants Item 240,Garden,Plants,SUP014,248.79,816.99,1.99,4.8,1
+PRD0039,Appliances Item 619,Home & Kitchen,Appliances,SUP037,137.48,223.83,25.5,3.0,0
+PRD0040,Kids Item 603,Clothing,Kids,SUP003,186.19,280.04,16.76,3.1,1
+PRD0041,Cleaning Item 396,Automotive,Cleaning,SUP023,265.19,920.87,23.25,3.1,1
+PRD0042,Academic Item 902,Books,Academic,SUP018,140.19,347.5,14.0,1.4,1
+PRD0043,Decor Item 834,Home & Kitchen,Decor,SUP034,189.33,325.16,0.62,2.4,1
+PRD0044,Sportswear Item 447,Clothing,Sportswear,SUP024,193.76,274.41,19.47,2.7,1
+PRD0045,Supplements Item 322,Health,Supplements,SUP020,286.49,481.02,14.56,1.9,0
+PRD0046,Medical Item 173,Health,Medical,SUP027,122.23,309.69,5.99,3.4,1
+PRD0047,Water Sports Item 462,Sports,Water Sports,SUP035,257.09,601.27,15.7,4.1,1
+PRD0048,Furniture Item 595,Garden,Furniture,SUP018,247.77,461.27,10.96,4.0,1
+PRD0049,Fiction Item 282,Books,Fiction,SUP033,262.91,707.67,11.8,2.6,1
+PRD0050,Sportswear Item 453,Clothing,Sportswear,SUP041,92.28,128.52,14.49,3.0,1
+PRD0051,Furniture Item 738,Office,Furniture,SUP026,125.04,426.67,3.56,2.6,1
+PRD0052,Tools Item 911,Automotive,Tools,SUP019,3.46,9.35,16.74,2.5,1
+PRD0053,Supplements Item 217,Health,Supplements,SUP015,92.91,211.6,20.08,4.2,1
+PRD0054,Laptops Item 897,Electronics,Laptops,SUP033,78.39,256.56,11.61,1.6,1
+PRD0055,Sportswear Item 901,Clothing,Sportswear,SUP044,93.36,268.01,11.64,2.9,1
+PRD0056,Board Games Item 810,Toys,Board Games,SUP007,144.58,236.95,20.2,2.1,1
+PRD0057,Water Sports Item 111,Sports,Water Sports,SUP038,138.14,425.35,1.9,3.3,0
+PRD0058,Plants Item 203,Garden,Plants,SUP031,166.4,503.79,12.93,4.9,1
+PRD0059,Phones Item 699,Electronics,Phones,SUP027,114.6,338.05,13.21,2.3,1
+PRD0060,Team Sports Item 389,Sports,Team Sports,SUP007,98.0,182.74,1.65,3.6,1
+PRD0061,Sportswear Item 802,Clothing,Sportswear,SUP037,276.79,823.47,21.16,1.4,1
+PRD0062,Decor Item 876,Home & Kitchen,Decor,SUP012,279.98,543.21,21.58,4.3,0
+PRD0063,Supplies Item 459,Office,Supplies,SUP003,79.27,167.14,15.24,2.2,1
+PRD0064,Cookware Item 496,Home & Kitchen,Cookware,SUP005,38.59,99.54,24.4,1.2,1
+PRD0065,Action Figures Item 497,Toys,Action Figures,SUP021,84.96,212.63,20.8,4.3,1
+PRD0066,Men Item 178,Clothing,Men,SUP004,81.29,218.58,22.27,2.5,1
+PRD0067,Educational Item 377,Toys,Educational,SUP021,225.52,547.07,22.21,1.3,1
+PRD0068,Decor Item 994,Home & Kitchen,Decor,SUP016,7.55,19.84,23.01,1.9,1
+PRD0069,Dolls Item 469,Toys,Dolls,SUP019,168.38,575.85,7.4,4.2,1
+PRD0070,Water Sports Item 397,Sports,Water Sports,SUP026,100.29,209.94,0.52,4.2,1
+PRD0071,Men Item 992,Clothing,Men,SUP033,269.04,756.31,11.87,2.7,1
+PRD0072,Personal Care Item 107,Health,Personal Care,SUP044,54.75,107.33,6.17,2.1,1
+PRD0073,Action Figures Item 633,Toys,Action Figures,SUP020,254.07,583.42,18.74,1.6,1
+PRD0074,Organization Item 922,Office,Organization,SUP042,171.38,462.22,21.53,3.1,0
+PRD0075,Sportswear Item 273,Clothing,Sportswear,SUP030,279.67,472.25,3.45,4.5,1
+PRD0076,Action Figures Item 682,Toys,Action Figures,SUP003,116.16,181.25,24.84,3.7,1
+PRD0077,Non-Fiction Item 105,Books,Non-Fiction,SUP040,43.41,97.11,28.34,3.1,1
+PRD0078,Board Games Item 639,Toys,Board Games,SUP017,140.87,484.55,27.37,2.2,1
+PRD0079,Phones Item 416,Electronics,Phones,SUP038,111.79,245.84,17.23,3.1,1
+PRD0080,Tech Item 237,Office,Tech,SUP030,186.61,607.33,2.59,2.7,0
+PRD0081,Laptops Item 996,Electronics,Laptops,SUP022,13.05,39.37,11.45,4.3,0
+PRD0082,Parts Item 853,Automotive,Parts,SUP028,226.95,626.2,2.7,1.2,1
+PRD0083,Appliances Item 500,Home & Kitchen,Appliances,SUP040,249.77,647.67,17.35,1.1,1
+PRD0084,Parts Item 368,Automotive,Parts,SUP019,23.15,32.75,19.06,3.3,1
+PRD0085,Educational Item 141,Toys,Educational,SUP043,190.54,666.8,23.28,3.4,1
+PRD0086,Action Figures Item 632,Toys,Action Figures,SUP044,2.51,4.93,5.02,3.4,1
+PRD0087,Decor Item 623,Home & Kitchen,Decor,SUP008,172.66,380.59,7.82,1.9,1
+PRD0088,Kids Item 930,Clothing,Kids,SUP016,122.06,276.47,25.18,2.9,1
+PRD0089,Dolls Item 238,Toys,Dolls,SUP038,187.2,239.12,29.11,4.4,1
+PRD0090,Furniture Item 683,Garden,Furniture,SUP034,282.15,931.67,8.7,1.5,1
+PRD0091,Personal Care Item 154,Health,Personal Care,SUP046,95.03,244.82,24.97,3.3,1
+PRD0092,Fitness Item 669,Health,Fitness,SUP036,256.54,424.74,12.97,3.2,1
+PRD0093,Cleaning Item 323,Automotive,Cleaning,SUP021,299.89,910.97,4.55,1.8,1
+PRD0094,Parts Item 778,Automotive,Parts,SUP001,103.01,290.6,27.43,1.9,1
+PRD0095,Team Sports Item 848,Sports,Team Sports,SUP035,115.56,339.75,12.25,1.6,1
+PRD0096,Organization Item 341,Office,Organization,SUP005,266.6,926.29,10.99,2.4,1
+PRD0097,Cookware Item 281,Home & Kitchen,Cookware,SUP049,289.73,401.59,9.85,3.5,1
+PRD0098,Fitness Item 749,Sports,Fitness,SUP035,194.7,666.66,24.46,2.5,0
+PRD0099,Children Item 539,Books,Children,SUP034,276.61,383.03,17.92,2.0,1
+PRD0100,Fitness Item 818,Sports,Fitness,SUP027,218.77,546.85,18.74,4.3,1
+PRD0101,Cleaning Item 420,Automotive,Cleaning,SUP024,174.9,411.69,29.66,2.1,0
+PRD0102,Accessories Item 148,Automotive,Accessories,SUP043,239.96,682.76,26.7,2.1,1
+PRD0103,Tools Item 416,Automotive,Tools,SUP037,3.46,7.97,28.98,3.7,1
+PRD0104,Plants Item 922,Garden,Plants,SUP039,203.7,672.16,4.95,3.7,1
+PRD0105,Academic Item 789,Books,Academic,SUP018,49.66,108.39,15.18,2.4,1
+PRD0106,Fiction Item 871,Books,Fiction,SUP019,100.46,202.16,24.73,4.3,1
+PRD0107,Organization Item 665,Office,Organization,SUP048,137.39,295.63,14.51,4.9,1
+PRD0108,Furniture Item 405,Garden,Furniture,SUP001,254.83,745.44,2.13,4.1,0
+PRD0109,Medical Item 642,Health,Medical,SUP001,257.21,542.67,0.38,1.6,1
+PRD0110,Women Item 574,Clothing,Women,SUP018,200.74,658.16,13.95,1.0,1
+PRD0111,Action Figures Item 323,Toys,Action Figures,SUP017,242.63,653.3,27.57,1.6,1
+PRD0112,Sportswear Item 903,Clothing,Sportswear,SUP030,114.11,294.0,17.93,2.2,1
+PRD0113,Furniture Item 536,Garden,Furniture,SUP040,2.65,3.19,21.65,2.6,1
+PRD0114,Accessories Item 260,Automotive,Accessories,SUP023,140.06,441.9,6.89,3.1,1
+PRD0115,Men Item 253,Clothing,Men,SUP016,19.74,36.91,11.96,1.6,1
+PRD0116,Academic Item 447,Books,Academic,SUP049,263.43,799.96,3.47,3.4,1
+PRD0117,Decor Item 160,Home & Kitchen,Decor,SUP046,24.28,46.9,13.56,4.6,1
+PRD0118,Fitness Item 871,Health,Fitness,SUP037,24.75,53.87,0.88,3.5,1
+PRD0119,Appliances Item 796,Home & Kitchen,Appliances,SUP039,143.88,430.97,17.19,1.2,1
+PRD0120,Appliances Item 442,Home & Kitchen,Appliances,SUP011,221.94,585.73,22.52,4.0,1
+PRD0121,Action Figures Item 820,Toys,Action Figures,SUP008,204.06,528.88,2.52,4.5,1
+PRD0122,Phones Item 355,Electronics,Phones,SUP007,181.08,554.21,21.21,4.9,1
+PRD0123,Supplements Item 408,Health,Supplements,SUP017,37.99,102.76,25.41,3.4,1
+PRD0124,Plants Item 504,Garden,Plants,SUP042,18.07,37.46,17.85,2.7,1
+PRD0125,Fitness Item 562,Health,Fitness,SUP020,115.11,301.83,17.42,3.1,1
+PRD0126,Supplies Item 619,Office,Supplies,SUP006,213.79,691.63,5.83,4.3,0
+PRD0127,Tools Item 510,Garden,Tools,SUP050,132.19,360.91,20.9,1.3,1
+PRD0128,Laptops Item 588,Electronics,Laptops,SUP014,97.67,142.45,11.96,1.1,1
+PRD0129,Action Figures Item 530,Toys,Action Figures,SUP039,246.93,353.42,16.37,3.2,1
+PRD0130,Educational Item 506,Toys,Educational,SUP042,87.02,129.04,21.42,2.9,1
+PRD0131,Non-Fiction Item 800,Books,Non-Fiction,SUP012,10.45,20.14,24.78,1.8,1
+PRD0132,Fitness Item 437,Health,Fitness,SUP040,250.27,438.83,4.26,3.6,1
+PRD0133,Laptops Item 563,Electronics,Laptops,SUP050,21.55,66.6,6.71,2.1,1
+PRD0134,Phones Item 617,Electronics,Phones,SUP017,98.98,335.57,15.13,3.8,1
+PRD0135,Furniture Item 807,Home & Kitchen,Furniture,SUP027,90.83,293.56,20.53,4.9,1
+PRD0136,Women Item 684,Clothing,Women,SUP015,172.1,330.51,7.58,4.3,1
+PRD0137,Tech Item 207,Office,Tech,SUP006,202.26,365.9,14.78,4.0,1
+PRD0138,Cookware Item 307,Home & Kitchen,Cookware,SUP009,62.28,135.28,18.75,1.9,1
+PRD0139,Cleaning Item 261,Automotive,Cleaning,SUP037,122.7,325.13,23.28,4.3,1
+PRD0140,Furniture Item 542,Home & Kitchen,Furniture,SUP046,92.07,257.69,23.65,2.5,1
+PRD0141,Tools Item 522,Automotive,Tools,SUP010,271.86,904.48,4.53,3.5,1
+PRD0142,Furniture Item 874,Home & Kitchen,Furniture,SUP017,243.29,544.51,13.06,3.8,1
+PRD0143,Tech Item 409,Office,Tech,SUP032,278.37,470.56,7.93,2.9,1
+PRD0144,Non-Fiction Item 755,Books,Non-Fiction,SUP022,239.0,689.18,21.68,1.9,1
+PRD0145,Accessories Item 261,Automotive,Accessories,SUP028,237.23,655.35,10.18,1.8,1
+PRD0146,Men Item 356,Clothing,Men,SUP040,226.52,753.08,9.63,4.5,1
+PRD0147,Action Figures Item 572,Toys,Action Figures,SUP038,202.41,680.18,1.48,4.7,1
+PRD0148,Fiction Item 166,Books,Fiction,SUP001,279.65,900.43,4.17,3.6,1
+PRD0149,Plants Item 574,Garden,Plants,SUP044,138.07,211.64,19.21,4.9,1
+PRD0150,Tablets Item 225,Electronics,Tablets,SUP026,239.86,779.81,24.19,4.6,1
+PRD0151,Board Games Item 702,Toys,Board Games,SUP011,220.95,282.78,12.47,1.2,1
+PRD0152,Educational Item 860,Toys,Educational,SUP044,126.57,299.82,4.16,4.2,1
+PRD0153,Team Sports Item 959,Sports,Team Sports,SUP033,196.62,413.17,5.83,4.0,1
+PRD0154,Decor Item 247,Garden,Decor,SUP038,265.73,785.74,7.2,2.0,0
+PRD0155,Men Item 182,Clothing,Men,SUP037,230.81,293.21,11.37,2.7,1
+PRD0156,Water Sports Item 292,Sports,Water Sports,SUP038,99.37,253.33,12.31,1.7,1
+PRD0157,Fiction Item 628,Books,Fiction,SUP033,151.03,351.4,22.51,2.1,1
+PRD0158,Action Figures Item 137,Toys,Action Figures,SUP019,154.94,320.52,8.13,4.8,0
+PRD0159,Cleaning Item 707,Automotive,Cleaning,SUP019,108.71,148.2,10.27,4.9,1
+PRD0160,Educational Item 575,Toys,Educational,SUP034,54.95,74.38,14.15,2.0,1
+PRD0161,Fitness Item 188,Health,Fitness,SUP043,212.65,312.1,28.08,2.8,1
+PRD0162,Plants Item 620,Garden,Plants,SUP018,103.86,155.95,5.33,3.7,0
+PRD0163,Cleaning Item 308,Automotive,Cleaning,SUP037,180.99,398.39,25.36,3.0,1
+PRD0164,Action Figures Item 137,Toys,Action Figures,SUP047,225.05,749.88,7.04,3.4,1
+PRD0165,Laptops Item 178,Electronics,Laptops,SUP031,134.88,231.17,1.38,1.3,1
+PRD0166,Organization Item 252,Office,Organization,SUP002,16.56,31.37,7.06,3.5,1
+PRD0167,Water Sports Item 468,Sports,Water Sports,SUP040,250.71,353.46,23.16,3.7,1
+PRD0168,Personal Care Item 466,Health,Personal Care,SUP021,229.34,393.6,16.61,4.0,1
+PRD0169,Dolls Item 324,Toys,Dolls,SUP010,206.36,540.76,9.68,1.9,1
+PRD0170,Supplies Item 298,Office,Supplies,SUP017,163.71,250.41,18.59,4.0,1
+PRD0171,Medical Item 858,Health,Medical,SUP028,132.8,371.5,13.54,3.1,1
+PRD0172,Non-Fiction Item 343,Books,Non-Fiction,SUP021,184.84,394.41,17.64,2.4,1
+PRD0173,Decor Item 735,Home & Kitchen,Decor,SUP031,40.11,102.86,10.79,3.3,1
+PRD0174,Fitness Item 159,Health,Fitness,SUP010,196.78,481.59,5.93,3.8,0
+PRD0175,Decor Item 863,Garden,Decor,SUP025,214.76,417.19,12.34,4.9,1
+PRD0176,Fiction Item 706,Books,Fiction,SUP021,159.73,379.42,28.58,1.1,1
+PRD0177,Tools Item 817,Automotive,Tools,SUP035,274.15,736.86,8.89,4.9,1
+PRD0178,Water Sports Item 229,Sports,Water Sports,SUP008,250.35,515.17,26.19,1.6,1
+PRD0179,Men Item 498,Clothing,Men,SUP023,45.12,63.44,10.9,2.7,1
+PRD0180,Board Games Item 960,Toys,Board Games,SUP040,30.13,103.13,27.14,4.7,1
+PRD0181,Children Item 624,Books,Children,SUP014,207.19,687.75,24.55,1.6,1
+PRD0182,Non-Fiction Item 965,Books,Non-Fiction,SUP041,283.84,494.98,6.52,2.4,1
+PRD0183,Accessories Item 221,Electronics,Accessories,SUP015,87.45,187.76,21.0,4.0,1
+PRD0184,Fitness Item 898,Sports,Fitness,SUP024,35.54,88.22,8.56,1.6,1
+PRD0185,Tech Item 129,Office,Tech,SUP036,48.05,156.8,11.62,1.2,1
+PRD0186,Furniture Item 966,Office,Furniture,SUP008,4.03,12.27,5.7,1.8,1
+PRD0187,Appliances Item 528,Home & Kitchen,Appliances,SUP039,260.78,601.81,0.24,3.0,0
+PRD0188,Fiction Item 309,Books,Fiction,SUP026,213.01,377.71,13.76,1.2,1
+PRD0189,Sportswear Item 184,Clothing,Sportswear,SUP039,277.31,613.52,12.98,2.8,1
+PRD0190,Fitness Item 235,Health,Fitness,SUP013,105.51,333.12,29.71,4.5,1
+PRD0191,Decor Item 701,Home & Kitchen,Decor,SUP003,153.27,211.62,17.73,4.0,1
+PRD0192,Fitness Item 250,Sports,Fitness,SUP046,110.59,236.25,19.99,4.0,0
+PRD0193,Fiction Item 795,Books,Fiction,SUP036,291.0,779.77,24.88,2.4,1
+PRD0194,Kids Item 761,Clothing,Kids,SUP021,129.4,325.11,1.07,2.5,1
+PRD0195,Educational Item 563,Toys,Educational,SUP020,145.4,192.93,15.29,4.0,0
+PRD0196,Personal Care Item 518,Health,Personal Care,SUP023,277.9,760.79,16.68,4.6,1
+PRD0197,Cookware Item 310,Home & Kitchen,Cookware,SUP033,175.09,551.14,5.18,1.7,1
+PRD0198,Plants Item 181,Garden,Plants,SUP026,147.35,235.22,3.27,4.5,1
+PRD0199,Tablets Item 697,Electronics,Tablets,SUP024,59.33,141.79,17.11,4.2,1
+PRD0200,Laptops Item 629,Electronics,Laptops,SUP003,173.05,523.08,4.64,2.1,1
+PRD0201,Tech Item 925,Office,Tech,SUP018,70.97,222.93,16.63,3.9,1
+PRD0202,Phones Item 942,Electronics,Phones,SUP020,155.4,349.44,17.82,2.1,1
+PRD0203,Outdoor Item 897,Sports,Outdoor,SUP050,239.48,513.21,14.04,1.0,1
+PRD0204,Fitness Item 342,Health,Fitness,SUP006,269.64,466.54,3.11,2.0,1
+PRD0205,Kids Item 773,Clothing,Kids,SUP048,54.92,106.16,17.14,2.3,1
+PRD0206,Furniture Item 416,Office,Furniture,SUP010,189.35,303.0,14.45,2.1,1
+PRD0207,Tablets Item 310,Electronics,Tablets,SUP007,279.15,718.35,10.0,1.2,0
+PRD0208,Furniture Item 237,Garden,Furniture,SUP016,295.5,361.55,25.2,4.7,1
+PRD0209,Parts Item 159,Automotive,Parts,SUP050,109.34,209.11,17.19,3.7,1
+PRD0210,Cleaning Item 874,Automotive,Cleaning,SUP032,273.45,443.83,27.88,3.9,1
+PRD0211,Tablets Item 373,Electronics,Tablets,SUP004,260.93,600.56,1.32,3.0,1
+PRD0212,Fiction Item 824,Books,Fiction,SUP033,113.11,353.5,14.48,3.7,1
+PRD0213,Accessories Item 107,Electronics,Accessories,SUP024,259.37,564.59,20.5,1.2,1
+PRD0214,Furniture Item 925,Office,Furniture,SUP008,94.13,148.4,19.05,4.5,1
+PRD0215,Accessories Item 607,Electronics,Accessories,SUP046,229.18,526.79,22.52,2.5,1
+PRD0216,Plants Item 892,Garden,Plants,SUP047,79.16,123.07,26.44,4.2,1
+PRD0217,Tools Item 531,Automotive,Tools,SUP050,67.14,209.64,13.56,3.6,1
+PRD0218,Supplements Item 364,Health,Supplements,SUP018,288.72,711.6,20.82,1.8,1
+PRD0219,Accessories Item 832,Automotive,Accessories,SUP025,230.0,469.58,16.3,2.6,1
+PRD0220,Action Figures Item 977,Toys,Action Figures,SUP044,238.68,570.31,10.33,1.4,1
+PRD0221,Sportswear Item 895,Clothing,Sportswear,SUP047,186.8,414.87,1.02,1.3,0
+PRD0222,Kids Item 752,Clothing,Kids,SUP042,127.15,375.72,8.11,2.1,1
+PRD0223,Women Item 313,Clothing,Women,SUP006,179.3,499.31,27.04,3.9,1
+PRD0224,Furniture Item 272,Garden,Furniture,SUP008,141.22,179.92,8.26,4.1,1
+PRD0225,Fiction Item 237,Books,Fiction,SUP040,130.99,328.01,20.53,3.8,1
+PRD0226,Furniture Item 569,Office,Furniture,SUP046,17.34,26.62,11.58,1.6,1
+PRD0227,Action Figures Item 121,Toys,Action Figures,SUP020,223.17,286.31,29.12,4.6,1
+PRD0228,Water Sports Item 813,Sports,Water Sports,SUP017,235.61,342.93,18.33,3.4,0
+PRD0229,Parts Item 327,Automotive,Parts,SUP044,184.8,312.48,2.59,4.9,1
+PRD0230,Accessories Item 691,Automotive,Accessories,SUP032,172.16,266.45,5.03,3.3,1
+PRD0231,Decor Item 401,Home & Kitchen,Decor,SUP012,88.39,224.96,19.62,2.0,1
+PRD0232,Personal Care Item 820,Health,Personal Care,SUP046,218.36,680.22,26.84,2.1,1
+PRD0233,Furniture Item 151,Office,Furniture,SUP016,72.25,248.33,5.1,3.8,1
+PRD0234,Furniture Item 961,Home & Kitchen,Furniture,SUP027,40.78,49.68,23.13,4.5,1
+PRD0235,Cleaning Item 724,Automotive,Cleaning,SUP006,50.84,104.12,14.84,3.1,0
+PRD0236,Tools Item 917,Automotive,Tools,SUP023,55.65,193.71,16.59,4.0,1
+PRD0237,Non-Fiction Item 724,Books,Non-Fiction,SUP010,296.82,506.58,18.33,2.4,1
+PRD0238,Children Item 762,Books,Children,SUP050,248.02,378.45,8.71,3.6,1
+PRD0239,Kids Item 985,Clothing,Kids,SUP007,138.0,363.15,13.53,2.0,1
+PRD0240,Appliances Item 509,Home & Kitchen,Appliances,SUP039,85.25,253.49,28.81,2.3,1
+PRD0241,Women Item 954,Clothing,Women,SUP044,4.74,13.46,20.6,1.4,0
+PRD0242,Furniture Item 211,Garden,Furniture,SUP046,143.6,237.92,13.13,4.2,1
+PRD0243,Water Sports Item 363,Sports,Water Sports,SUP038,290.37,354.44,18.26,1.2,1
+PRD0244,Accessories Item 718,Automotive,Accessories,SUP023,74.93,232.91,18.01,3.4,1
+PRD0245,Medical Item 269,Health,Medical,SUP017,242.7,555.57,9.63,2.2,1
+PRD0246,Furniture Item 712,Home & Kitchen,Furniture,SUP034,28.24,47.59,28.4,3.5,1
+PRD0247,Furniture Item 234,Home & Kitchen,Furniture,SUP019,283.16,975.49,20.93,4.2,1
+PRD0248,Decor Item 970,Garden,Decor,SUP023,215.32,357.82,3.66,2.6,1
+PRD0249,Personal Care Item 627,Health,Personal Care,SUP033,175.22,402.92,15.9,1.9,1
+PRD0250,Tools Item 976,Garden,Tools,SUP047,136.53,423.57,10.98,4.3,1
+PRD0251,Accessories Item 696,Automotive,Accessories,SUP025,119.13,340.1,15.77,3.9,1
+PRD0252,Tools Item 584,Automotive,Tools,SUP034,222.5,311.9,12.54,1.9,1
+PRD0253,Accessories Item 473,Electronics,Accessories,SUP015,70.4,171.88,19.22,2.1,1
+PRD0254,Parts Item 381,Automotive,Parts,SUP030,247.03,675.34,3.78,3.8,1
+PRD0255,Fiction Item 790,Books,Fiction,SUP005,129.09,297.72,19.78,1.9,1
+PRD0256,Water Sports Item 205,Sports,Water Sports,SUP050,213.14,680.36,15.64,1.1,1
+PRD0257,Tools Item 291,Garden,Tools,SUP006,123.78,372.91,10.38,4.0,1
+PRD0258,Fiction Item 760,Books,Fiction,SUP009,45.77,97.91,18.61,4.3,1
+PRD0259,Fitness Item 771,Sports,Fitness,SUP014,194.23,574.15,19.68,1.8,1
+PRD0260,Outdoor Item 489,Sports,Outdoor,SUP017,177.24,498.59,23.91,2.8,1
+PRD0261,Plants Item 213,Garden,Plants,SUP044,22.51,68.13,17.99,2.1,1
+PRD0262,Personal Care Item 724,Health,Personal Care,SUP004,217.6,386.36,3.16,3.3,1
+PRD0263,Personal Care Item 300,Health,Personal Care,SUP037,177.36,228.3,25.53,4.5,1
+PRD0264,Furniture Item 724,Home & Kitchen,Furniture,SUP035,179.77,232.52,17.54,3.2,1
+PRD0265,Accessories Item 769,Automotive,Accessories,SUP018,5.43,7.58,24.1,3.3,1
+PRD0266,Cookware Item 624,Home & Kitchen,Cookware,SUP004,147.16,385.3,18.86,1.7,0
+PRD0267,Men Item 730,Clothing,Men,SUP043,158.08,470.19,5.69,3.8,1
+PRD0268,Board Games Item 150,Toys,Board Games,SUP046,6.34,10.85,26.28,4.4,1
+PRD0269,Decor Item 820,Home & Kitchen,Decor,SUP027,275.71,749.39,6.5,3.9,1
+PRD0270,Furniture Item 924,Office,Furniture,SUP005,191.62,321.15,17.94,3.2,1
+PRD0271,Fitness Item 484,Health,Fitness,SUP017,194.66,680.53,18.31,3.2,1
+PRD0272,Cookware Item 562,Home & Kitchen,Cookware,SUP017,225.1,299.35,3.54,2.8,1
+PRD0273,Non-Fiction Item 180,Books,Non-Fiction,SUP036,233.25,726.21,25.97,1.8,1
+PRD0274,Medical Item 188,Health,Medical,SUP047,129.02,386.6,16.41,3.6,1
+PRD0275,Water Sports Item 259,Sports,Water Sports,SUP019,18.05,53.16,6.84,4.5,1
+PRD0276,Kids Item 556,Clothing,Kids,SUP003,11.34,23.93,20.62,2.7,1
+PRD0277,Parts Item 912,Automotive,Parts,SUP041,163.46,489.55,7.47,3.0,1
+PRD0278,Accessories Item 128,Electronics,Accessories,SUP035,290.24,731.47,4.48,2.3,1
+PRD0279,Accessories Item 552,Automotive,Accessories,SUP021,53.69,183.61,23.96,2.6,1
+PRD0280,Parts Item 371,Automotive,Parts,SUP005,176.97,518.72,28.66,4.6,1
+PRD0281,Academic Item 501,Books,Academic,SUP025,15.37,52.58,29.68,1.3,1
+PRD0282,Tech Item 741,Office,Tech,SUP045,70.63,246.7,12.24,2.0,1
+PRD0283,Personal Care Item 216,Health,Personal Care,SUP049,271.32,575.76,12.18,4.1,1
+PRD0284,Academic Item 804,Books,Academic,SUP021,180.92,271.72,0.22,2.5,1
+PRD0285,Furniture Item 218,Garden,Furniture,SUP016,58.7,150.62,29.26,3.8,1
+PRD0286,Tools Item 783,Automotive,Tools,SUP007,249.78,357.18,29.55,1.7,1
+PRD0287,Academic Item 618,Books,Academic,SUP030,195.83,602.62,20.82,4.4,1
+PRD0288,Accessories Item 501,Electronics,Accessories,SUP003,222.43,651.72,11.02,1.6,1
+PRD0289,Tools Item 402,Automotive,Tools,SUP039,89.53,289.46,12.89,1.3,1
+PRD0290,Decor Item 145,Home & Kitchen,Decor,SUP028,213.29,518.35,8.86,4.6,1
+PRD0291,Sportswear Item 602,Clothing,Sportswear,SUP022,112.5,330.29,19.49,2.6,1
+PRD0292,Medical Item 213,Health,Medical,SUP026,214.22,270.6,7.1,1.4,1
+PRD0293,Accessories Item 944,Electronics,Accessories,SUP047,70.43,101.39,2.85,3.4,1
+PRD0294,Men Item 728,Clothing,Men,SUP029,225.58,295.86,6.26,2.0,1
+PRD0295,Laptops Item 281,Electronics,Laptops,SUP029,187.03,543.71,6.65,4.4,1
+PRD0296,Fiction Item 560,Books,Fiction,SUP038,132.26,432.19,21.72,2.7,1
+PRD0297,Non-Fiction Item 318,Books,Non-Fiction,SUP013,220.9,345.33,15.07,4.9,1
+PRD0298,Kids Item 668,Clothing,Kids,SUP040,101.34,132.29,16.5,2.9,1
+PRD0299,Fitness Item 406,Sports,Fitness,SUP009,244.95,577.87,17.0,3.8,1
+PRD0300,Tablets Item 347,Electronics,Tablets,SUP041,241.41,616.94,8.09,1.4,1
+PRD0301,Laptops Item 972,Electronics,Laptops,SUP039,221.82,326.11,18.96,4.7,1
+PRD0302,Action Figures Item 368,Toys,Action Figures,SUP032,224.64,633.32,4.73,2.1,1
+PRD0303,Supplements Item 633,Health,Supplements,SUP020,230.63,665.44,16.56,2.4,1
+PRD0304,Appliances Item 389,Home & Kitchen,Appliances,SUP004,87.46,270.92,21.31,4.1,1
+PRD0305,Board Games Item 920,Toys,Board Games,SUP022,101.61,162.28,20.04,1.7,1
+PRD0306,Academic Item 540,Books,Academic,SUP009,255.82,387.73,14.73,2.3,1
+PRD0307,Accessories Item 189,Electronics,Accessories,SUP037,285.8,443.85,24.23,3.4,1
+PRD0308,Decor Item 129,Home & Kitchen,Decor,SUP016,264.49,556.35,21.9,1.9,1
+PRD0309,Supplements Item 567,Health,Supplements,SUP039,223.71,467.42,4.67,4.9,1
+PRD0310,Parts Item 532,Automotive,Parts,SUP041,163.52,277.33,7.8,2.6,1
+PRD0311,Kids Item 452,Clothing,Kids,SUP033,229.43,746.51,4.36,2.0,1
+PRD0312,Decor Item 152,Home & Kitchen,Decor,SUP009,37.92,106.7,12.21,2.1,1
+PRD0313,Action Figures Item 126,Toys,Action Figures,SUP050,131.94,266.98,27.84,4.2,1
+PRD0314,Non-Fiction Item 149,Books,Non-Fiction,SUP009,100.61,236.76,25.27,2.0,1
+PRD0315,Accessories Item 803,Automotive,Accessories,SUP006,153.03,206.39,7.63,4.9,1
+PRD0316,Tech Item 835,Office,Tech,SUP022,16.78,21.93,10.57,1.2,1
+PRD0317,Organization Item 893,Office,Organization,SUP040,201.45,501.95,3.35,2.5,1
+PRD0318,Supplements Item 946,Health,Supplements,SUP030,167.16,371.29,1.54,4.3,1
+PRD0319,Organization Item 114,Office,Organization,SUP031,24.64,38.7,22.34,3.6,1
+PRD0320,Academic Item 179,Books,Academic,SUP040,255.59,610.93,10.3,1.7,1
+PRD0321,Outdoor Item 212,Sports,Outdoor,SUP014,138.85,317.16,22.47,2.2,1
+PRD0322,Outdoor Item 122,Sports,Outdoor,SUP038,297.92,837.2,4.77,3.3,1
+PRD0323,Organization Item 182,Office,Organization,SUP012,181.63,453.09,24.54,2.3,1
+PRD0324,Outdoor Item 591,Sports,Outdoor,SUP011,202.07,487.16,4.19,1.9,0
+PRD0325,Action Figures Item 732,Toys,Action Figures,SUP042,288.39,592.42,13.11,3.2,1
+PRD0326,Phones Item 361,Electronics,Phones,SUP034,183.73,244.61,16.86,2.5,1
+PRD0327,Men Item 157,Clothing,Men,SUP004,217.05,648.02,24.65,3.1,1
+PRD0328,Tools Item 158,Automotive,Tools,SUP047,100.38,135.97,28.86,2.0,1
+PRD0329,Team Sports Item 774,Sports,Team Sports,SUP046,197.48,576.1,5.78,4.3,1
+PRD0330,Furniture Item 483,Office,Furniture,SUP029,114.69,363.5,24.34,3.7,1
+PRD0331,Sportswear Item 232,Clothing,Sportswear,SUP015,94.57,306.45,15.41,2.3,0
+PRD0332,Cookware Item 977,Home & Kitchen,Cookware,SUP006,64.49,176.76,6.19,1.6,1
+PRD0333,Academic Item 779,Books,Academic,SUP011,81.45,151.33,17.44,2.2,1
+PRD0334,Personal Care Item 165,Health,Personal Care,SUP016,20.12,64.65,13.13,3.6,1
+PRD0335,Supplements Item 842,Health,Supplements,SUP017,43.72,83.39,28.4,4.9,1
+PRD0336,Phones Item 838,Electronics,Phones,SUP017,160.36,461.43,11.34,4.9,1
+PRD0337,Decor Item 470,Garden,Decor,SUP010,109.55,362.65,5.75,2.0,0
+PRD0338,Women Item 644,Clothing,Women,SUP012,258.68,632.45,9.56,4.5,1
+PRD0339,Academic Item 175,Books,Academic,SUP050,155.36,498.91,2.63,4.8,1
+PRD0340,Team Sports Item 383,Sports,Team Sports,SUP045,267.08,580.44,17.37,4.1,1
+PRD0341,Water Sports Item 143,Sports,Water Sports,SUP039,24.45,43.96,2.22,1.5,1
+PRD0342,Supplements Item 808,Health,Supplements,SUP046,146.72,183.33,20.15,4.1,1
+PRD0343,Dolls Item 178,Toys,Dolls,SUP002,38.43,111.31,17.43,2.2,1
+PRD0344,Tech Item 403,Office,Tech,SUP024,90.89,316.54,17.57,4.6,0
+PRD0345,Decor Item 166,Garden,Decor,SUP016,140.83,213.72,20.93,2.0,1
+PRD0346,Tools Item 905,Garden,Tools,SUP023,205.55,416.44,25.92,3.7,1
+PRD0347,Furniture Item 178,Home & Kitchen,Furniture,SUP046,158.15,204.03,25.62,4.4,1
+PRD0348,Outdoor Item 401,Sports,Outdoor,SUP050,220.0,511.25,8.94,4.9,1
+PRD0349,Tech Item 788,Office,Tech,SUP021,141.73,387.28,10.99,4.1,1
+PRD0350,Decor Item 967,Home & Kitchen,Decor,SUP026,31.52,78.57,24.2,4.0,1
+PRD0351,Laptops Item 986,Electronics,Laptops,SUP025,153.47,504.23,28.4,1.0,1
+PRD0352,Tools Item 475,Automotive,Tools,SUP013,38.48,57.5,28.54,4.2,1
+PRD0353,Furniture Item 568,Home & Kitchen,Furniture,SUP015,85.96,192.97,26.14,2.9,1
+PRD0354,Decor Item 846,Garden,Decor,SUP038,99.47,135.7,1.35,1.8,1
+PRD0355,Furniture Item 559,Office,Furniture,SUP036,184.45,613.43,16.78,2.6,1
+PRD0356,Supplies Item 197,Office,Supplies,SUP030,95.8,133.32,15.14,3.8,1
+PRD0357,Action Figures Item 571,Toys,Action Figures,SUP032,255.64,424.36,6.64,3.9,1
+PRD0358,Plants Item 452,Garden,Plants,SUP032,53.43,105.1,6.4,1.3,1
+PRD0359,Furniture Item 714,Garden,Furniture,SUP007,278.1,858.97,3.49,3.8,1
+PRD0360,Team Sports Item 874,Sports,Team Sports,SUP019,232.35,782.6,15.12,4.0,1
+PRD0361,Cookware Item 230,Home & Kitchen,Cookware,SUP046,142.28,270.91,20.48,4.4,1
+PRD0362,Tablets Item 308,Electronics,Tablets,SUP015,118.12,331.66,20.55,1.2,1
+PRD0363,Fiction Item 431,Books,Fiction,SUP004,70.65,133.13,20.49,3.5,1
+PRD0364,Fitness Item 756,Sports,Fitness,SUP003,233.95,625.54,14.15,2.3,0
+PRD0365,Laptops Item 722,Electronics,Laptops,SUP048,99.19,223.58,10.94,3.6,1
+PRD0366,Tools Item 701,Garden,Tools,SUP048,112.51,246.82,24.0,1.6,1
+PRD0367,Organization Item 203,Office,Organization,SUP024,300.0,715.2,7.15,3.0,1
+PRD0368,Board Games Item 831,Toys,Board Games,SUP025,57.01,137.89,11.05,1.4,1
+PRD0369,Organization Item 758,Office,Organization,SUP045,128.82,220.25,14.38,2.7,1
+PRD0370,Parts Item 598,Automotive,Parts,SUP011,153.36,418.59,21.99,1.5,1
+PRD0371,Furniture Item 456,Home & Kitchen,Furniture,SUP018,152.19,188.34,8.54,4.9,1
+PRD0372,Fiction Item 381,Books,Fiction,SUP012,26.91,40.54,29.97,2.2,1
+PRD0373,Tools Item 969,Automotive,Tools,SUP016,113.56,304.45,16.08,2.5,1
+PRD0374,Team Sports Item 881,Sports,Team Sports,SUP002,54.87,174.54,25.3,1.8,1
+PRD0375,Water Sports Item 243,Sports,Water Sports,SUP030,83.24,215.8,25.63,4.1,1
+PRD0376,Children Item 295,Books,Children,SUP005,194.94,635.8,21.07,2.1,1
+PRD0377,Women Item 464,Clothing,Women,SUP042,163.77,290.27,21.02,3.6,1
+PRD0378,Cleaning Item 154,Automotive,Cleaning,SUP032,170.03,540.46,15.36,3.7,1
+PRD0379,Board Games Item 503,Toys,Board Games,SUP047,64.94,203.91,21.6,2.2,0
+PRD0380,Personal Care Item 444,Health,Personal Care,SUP011,42.44,123.46,28.25,1.4,1
+PRD0381,Water Sports Item 579,Sports,Water Sports,SUP022,148.58,244.31,6.83,1.1,1
+PRD0382,Cookware Item 798,Home & Kitchen,Cookware,SUP030,296.34,701.83,27.9,2.1,1
+PRD0383,Furniture Item 860,Office,Furniture,SUP028,137.05,280.12,22.86,1.2,1
+PRD0384,Tools Item 474,Automotive,Tools,SUP002,268.32,778.64,20.46,3.0,1
+PRD0385,Furniture Item 770,Office,Furniture,SUP002,62.39,207.13,18.02,4.3,1
+PRD0386,Phones Item 186,Electronics,Phones,SUP034,76.27,244.5,9.34,2.8,1
+PRD0387,Fiction Item 102,Books,Fiction,SUP016,24.57,77.94,19.37,3.6,1
+PRD0388,Decor Item 374,Home & Kitchen,Decor,SUP028,239.33,531.16,15.79,1.6,1
+PRD0389,Tools Item 200,Garden,Tools,SUP031,162.97,451.37,2.51,4.2,1
+PRD0390,Water Sports Item 282,Sports,Water Sports,SUP050,75.71,93.02,21.46,3.9,1
+PRD0391,Fitness Item 645,Sports,Fitness,SUP049,188.97,234.51,15.13,2.1,1
+PRD0392,Water Sports Item 530,Sports,Water Sports,SUP003,100.75,273.01,8.84,3.3,1
+PRD0393,Educational Item 423,Toys,Educational,SUP017,110.99,231.84,7.13,3.1,1
+PRD0394,Children Item 753,Books,Children,SUP018,60.23,85.84,20.6,2.0,1
+PRD0395,Academic Item 655,Books,Academic,SUP025,46.97,75.89,7.32,4.9,1
+PRD0396,Non-Fiction Item 895,Books,Non-Fiction,SUP023,92.51,131.16,18.19,3.4,1
+PRD0397,Board Games Item 816,Toys,Board Games,SUP003,175.29,210.69,22.6,1.2,1
+PRD0398,Personal Care Item 867,Health,Personal Care,SUP014,188.57,268.43,7.72,1.8,1
+PRD0399,Laptops Item 170,Electronics,Laptops,SUP031,128.63,355.51,25.33,1.7,1
+PRD0400,Men Item 869,Clothing,Men,SUP040,239.59,596.49,14.14,3.9,0
+PRD0401,Accessories Item 433,Electronics,Accessories,SUP025,215.77,605.19,21.16,2.6,1
+PRD0402,Team Sports Item 156,Sports,Team Sports,SUP031,157.74,313.11,15.62,3.6,1
+PRD0403,Supplements Item 396,Health,Supplements,SUP029,202.12,506.05,1.42,2.7,0
+PRD0404,Decor Item 668,Home & Kitchen,Decor,SUP043,43.97,67.36,11.77,3.5,1
+PRD0405,Parts Item 758,Automotive,Parts,SUP019,46.59,68.74,13.94,2.3,1
+PRD0406,Fitness Item 406,Health,Fitness,SUP043,32.29,47.83,4.08,2.6,1
+PRD0407,Tools Item 446,Garden,Tools,SUP037,65.38,110.04,29.95,2.9,1
+PRD0408,Supplements Item 198,Health,Supplements,SUP034,5.02,13.36,17.15,1.2,1
+PRD0409,Tools Item 695,Garden,Tools,SUP029,54.52,93.92,2.72,4.0,1
+PRD0410,Supplements Item 667,Health,Supplements,SUP038,282.98,556.46,1.75,2.8,1
+PRD0411,Supplements Item 841,Health,Supplements,SUP026,288.45,387.77,20.56,2.2,1
+PRD0412,Furniture Item 576,Garden,Furniture,SUP033,5.3,12.83,6.85,3.1,1
+PRD0413,Parts Item 853,Automotive,Parts,SUP028,177.91,562.87,17.13,4.1,1
+PRD0414,Women Item 391,Clothing,Women,SUP042,63.6,206.74,5.21,3.6,1
+PRD0415,Decor Item 679,Garden,Decor,SUP009,251.1,701.0,22.84,3.6,1
+PRD0416,Tools Item 345,Garden,Tools,SUP040,111.33,248.86,27.4,4.2,1
+PRD0417,Sportswear Item 280,Clothing,Sportswear,SUP019,255.61,494.77,5.36,1.2,1
+PRD0418,Dolls Item 998,Toys,Dolls,SUP006,121.08,378.49,27.13,3.0,1
+PRD0419,Furniture Item 886,Home & Kitchen,Furniture,SUP022,194.41,315.66,12.57,2.0,1
+PRD0420,Kids Item 484,Clothing,Kids,SUP035,174.26,321.49,3.67,4.5,1
+PRD0421,Tech Item 674,Office,Tech,SUP043,270.47,459.39,2.57,4.3,1
+PRD0422,Decor Item 824,Garden,Decor,SUP037,15.56,46.24,16.91,3.7,1
+PRD0423,Accessories Item 878,Automotive,Accessories,SUP006,95.26,201.27,8.02,1.6,0
+PRD0424,Children Item 770,Books,Children,SUP011,39.08,88.94,18.11,2.1,1
+PRD0425,Action Figures Item 118,Toys,Action Figures,SUP026,110.01,184.02,29.46,3.1,1
+PRD0426,Accessories Item 738,Electronics,Accessories,SUP002,61.94,95.07,24.04,3.9,1
+PRD0427,Tools Item 272,Automotive,Tools,SUP005,139.96,184.96,15.78,2.0,1
+PRD0428,Accessories Item 994,Automotive,Accessories,SUP018,185.22,519.99,26.76,3.0,1
+PRD0429,Tools Item 133,Automotive,Tools,SUP038,34.92,57.59,20.43,2.1,1
+PRD0430,Educational Item 282,Toys,Educational,SUP046,114.42,218.69,23.46,4.5,1
+PRD0431,Personal Care Item 123,Health,Personal Care,SUP021,220.43,454.6,5.73,1.1,1
+PRD0432,Medical Item 446,Health,Medical,SUP029,81.1,107.04,16.98,2.6,1
+PRD0433,Organization Item 842,Office,Organization,SUP047,61.02,156.07,20.12,4.6,1
+PRD0434,Personal Care Item 798,Health,Personal Care,SUP010,119.12,372.84,1.08,2.1,1
+PRD0435,Phones Item 508,Electronics,Phones,SUP028,84.69,239.41,16.78,2.3,1
+PRD0436,Kids Item 906,Clothing,Kids,SUP020,106.19,178.36,25.87,2.4,1
+PRD0437,Furniture Item 818,Office,Furniture,SUP034,193.24,511.48,25.91,4.1,1
+PRD0438,Women Item 601,Clothing,Women,SUP012,6.46,11.58,29.11,4.8,1
+PRD0439,Furniture Item 918,Office,Furniture,SUP018,194.09,398.77,29.29,1.3,1
+PRD0440,Organization Item 710,Office,Organization,SUP006,46.99,81.77,24.9,3.5,1
+PRD0441,Team Sports Item 125,Sports,Team Sports,SUP008,145.07,177.83,23.01,4.8,1
+PRD0442,Accessories Item 739,Automotive,Accessories,SUP034,173.1,326.52,2.58,1.4,1
+PRD0443,Outdoor Item 934,Sports,Outdoor,SUP050,242.04,395.64,1.08,4.4,1
+PRD0444,Decor Item 700,Home & Kitchen,Decor,SUP030,44.97,137.83,13.61,4.8,1
+PRD0445,Sportswear Item 236,Clothing,Sportswear,SUP013,150.72,346.56,14.28,2.0,1
+PRD0446,Children Item 376,Books,Children,SUP036,285.59,495.7,13.89,2.5,1
+PRD0447,Kids Item 972,Clothing,Kids,SUP038,20.73,71.74,18.83,3.4,1
+PRD0448,Children Item 579,Books,Children,SUP006,50.57,64.34,20.04,3.3,1
+PRD0449,Furniture Item 899,Home & Kitchen,Furniture,SUP002,177.92,327.16,2.46,3.3,1
+PRD0450,Furniture Item 320,Office,Furniture,SUP004,245.39,439.89,12.51,4.6,1
+PRD0451,Cookware Item 607,Home & Kitchen,Cookware,SUP050,145.45,451.96,1.34,2.2,1
+PRD0452,Fiction Item 150,Books,Fiction,SUP045,156.08,293.59,12.04,4.5,1
+PRD0453,Decor Item 224,Garden,Decor,SUP006,132.48,305.28,5.64,4.1,1
+PRD0454,Team Sports Item 456,Sports,Team Sports,SUP028,195.91,633.34,18.23,2.2,1
+PRD0455,Decor Item 893,Home & Kitchen,Decor,SUP015,2.44,7.15,25.82,3.4,1
+PRD0456,Furniture Item 620,Home & Kitchen,Furniture,SUP023,96.11,133.62,3.78,1.5,1
+PRD0457,Decor Item 409,Garden,Decor,SUP025,153.89,395.93,19.85,4.5,1
+PRD0458,Fiction Item 544,Books,Fiction,SUP007,155.59,359.17,23.84,4.1,1
+PRD0459,Furniture Item 186,Office,Furniture,SUP018,76.62,226.65,19.6,4.3,0
+PRD0460,Supplements Item 274,Health,Supplements,SUP003,185.66,260.81,23.29,2.9,1
+PRD0461,Furniture Item 895,Home & Kitchen,Furniture,SUP048,179.86,409.64,22.03,1.8,1
+PRD0462,Non-Fiction Item 313,Books,Non-Fiction,SUP023,205.36,400.23,27.37,3.0,1
+PRD0463,Appliances Item 326,Home & Kitchen,Appliances,SUP040,214.78,358.49,19.22,3.9,1
+PRD0464,Tech Item 933,Office,Tech,SUP041,104.47,185.85,5.48,1.6,1
+PRD0465,Tools Item 827,Garden,Tools,SUP024,122.95,231.81,19.68,1.3,1
+PRD0466,Accessories Item 922,Automotive,Accessories,SUP043,208.58,590.29,7.76,2.5,1
+PRD0467,Plants Item 252,Garden,Plants,SUP039,77.59,142.11,15.19,4.1,1
+PRD0468,Fiction Item 487,Books,Fiction,SUP004,50.41,76.83,21.79,3.4,1
+PRD0469,Educational Item 200,Toys,Educational,SUP040,241.68,627.36,18.38,4.3,1
+PRD0470,Water Sports Item 605,Sports,Water Sports,SUP018,295.11,530.52,24.31,3.8,1
+PRD0471,Decor Item 879,Home & Kitchen,Decor,SUP001,44.92,57.24,24.17,4.3,1
+PRD0472,Water Sports Item 978,Sports,Water Sports,SUP042,56.48,182.63,22.34,2.7,1
+PRD0473,Water Sports Item 607,Sports,Water Sports,SUP041,298.63,432.0,7.38,4.1,1
+PRD0474,Supplements Item 278,Health,Supplements,SUP023,14.42,47.67,22.15,3.4,1
+PRD0475,Cleaning Item 923,Automotive,Cleaning,SUP029,178.91,289.19,15.36,2.9,1
+PRD0476,Laptops Item 139,Electronics,Laptops,SUP043,173.88,243.78,0.36,2.5,1
+PRD0477,Fitness Item 946,Health,Fitness,SUP027,67.97,89.68,10.9,4.7,1
+PRD0478,Dolls Item 743,Toys,Dolls,SUP001,9.5,20.96,6.13,2.6,1
+PRD0479,Furniture Item 645,Office,Furniture,SUP023,277.74,756.87,10.53,4.2,1
+PRD0480,Decor Item 299,Home & Kitchen,Decor,SUP034,241.77,575.75,17.02,4.9,1
+PRD0481,Appliances Item 156,Home & Kitchen,Appliances,SUP020,163.19,430.09,17.09,2.9,1
+PRD0482,Supplements Item 103,Health,Supplements,SUP036,243.72,351.2,7.89,4.1,1
+PRD0483,Laptops Item 699,Electronics,Laptops,SUP018,272.58,527.62,17.6,2.4,1
+PRD0484,Decor Item 122,Garden,Decor,SUP026,293.9,508.99,23.43,2.7,1
+PRD0485,Tools Item 762,Automotive,Tools,SUP017,282.87,718.89,22.0,3.5,0
+PRD0486,Children Item 911,Books,Children,SUP048,184.78,576.63,11.06,2.5,1
+PRD0487,Supplies Item 678,Office,Supplies,SUP010,278.65,365.97,13.95,2.0,1
+PRD0488,Accessories Item 464,Electronics,Accessories,SUP026,129.04,165.7,9.47,4.0,1
+PRD0489,Tools Item 776,Automotive,Tools,SUP030,175.46,349.73,17.87,2.9,1
+PRD0490,Fitness Item 147,Health,Fitness,SUP033,24.92,46.26,24.46,4.0,1
+PRD0491,Fiction Item 348,Books,Fiction,SUP023,251.85,835.89,9.29,1.3,1
+PRD0492,Fitness Item 629,Sports,Fitness,SUP015,202.5,285.86,5.14,2.7,1
+PRD0493,Furniture Item 937,Garden,Furniture,SUP035,18.16,36.59,17.29,1.4,1
+PRD0494,Tablets Item 943,Electronics,Tablets,SUP028,274.02,348.87,2.84,4.5,1
+PRD0495,Action Figures Item 329,Toys,Action Figures,SUP027,35.86,74.7,20.17,1.6,1
+PRD0496,Phones Item 799,Electronics,Phones,SUP032,297.29,805.65,3.83,1.2,0
+PRD0497,Team Sports Item 180,Sports,Team Sports,SUP048,124.79,396.2,21.18,2.8,0
+PRD0498,Sportswear Item 660,Clothing,Sportswear,SUP036,21.55,48.32,27.77,2.2,0
+PRD0499,Cleaning Item 316,Automotive,Cleaning,SUP032,54.5,164.57,16.84,4.0,1
+PRD0500,Tech Item 168,Office,Tech,SUP038,150.02,291.69,5.66,3.5,1
