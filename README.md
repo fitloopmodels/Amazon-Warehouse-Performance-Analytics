@@ -184,7 +184,4 @@ Update the data source path to your local `Dataset/` folder and refresh.
 
 ---
 
-## Contact
 
-**[Your Name]**
-[LinkedIn URL] | [Email] | [Portfolio URL]
